@@ -1,0 +1,4 @@
+name: BetterAnnouncer
+version: ${project.version}
+main: github.fabridora.betterannouncer.betterannouncer.BetterAnnouncer
+api-version: 1.16
